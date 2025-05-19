@@ -1,8 +1,8 @@
 @font-face {
   font-family: 'MadaniArabic';
-  src: url('https://raw.githubusercontent.com/fayedDeveloper/font/main/alfont_com_Madani-Arabic-Regular-1.woff2') format('woff2'),
-       url('https://raw.githubusercontent.com/fayedDeveloper/font/main/alfont_com_Madani-Arabic-Regular-1.woff') format('woff'),
-       url('https://raw.githubusercontent.com/fayedDeveloper/font/main/alfont_com_Madani-Arabic-Regular-1.ttf') format('truetype');
+  src: url('https://cdn.jsdelivr.net/gh/fayedDeveloper/font/alfont_com_Madani-Arabic-Regular-1.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/fayedDeveloper/font/alfont_com_Madani-Arabic-Regular-1.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/fayedDeveloper/font/alfont_com_Madani-Arabic-Regular-1.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
