@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Madani-Arabic-Light'; 
-    src: url('alfont_com_Madani-Arabic-Light.ttf') format('ttf'); /* Ensure the correct path */
+    src: url('alfont_com_Madani-Arabic-Light.ttf') format('ttf'); 
     font-weight: normal;
     font-style: normal;
 }
 
 body {
-    font-family: 'Madani-Arabic-Light', sans-serif; /* Reference the font-family correctly */
+    font-family: 'Madani-Arabic-Light', sans-serif; 
 }
