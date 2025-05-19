@@ -1,10 +1,10 @@
 @font-face {
-    font-family: 'HTBaybarsText-Light'; 
-    src: url('fonts/HTBaybarsText-Light.woff2') format('woff2'); /* Ensure the correct path */
+    font-family: 'Madani-Arabic-Light'; 
+    src: url('alfont_com_Madani-Arabic-Light.ttf') format('ttf'); /* Ensure the correct path */
     font-weight: normal;
     font-style: normal;
 }
 
 body {
-    font-family: 'HTBaybarsText-Light', sans-serif; /* Reference the font-family correctly */
+    font-family: 'Madani-Arabic-Light', sans-serif; /* Reference the font-family correctly */
 }
