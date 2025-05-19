@@ -1,12 +1,6 @@
 @font-face {
-    font-family: 'Madani-Arabic-Light'; 
-    src: url('https://github.com/fayedDeveloper/font/blob/main/alfont_com_Madani-Arabic-Light.ttf') format('truetype');
-    font-weight: light;
-    font-style: light;
-}
-@font-face {
     font-family: 'Madani-Arabic-Regular'; 
-    src: url('https://github.com/fayedDeveloper/font/blob/main/alfont_com_Madani-Arabic-Regular-1.ttf') format('truetype');
+    src: url('https://github.com/fayedDeveloper/font/blob/main/alfont_com_Madani-Arabic-Regular-1.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 }
